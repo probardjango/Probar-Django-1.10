@@ -1,0 +1,7 @@
+Include/
+Lib/
+Scripts/
+pip-selfcheck.json
+
+__pycache__/
+*.py[cod]

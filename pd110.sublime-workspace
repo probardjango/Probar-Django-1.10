@@ -1,0 +1,585 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"queryset",
+				"queryset_list"
+			],
+			[
+				"auto_no",
+				"auto_now_add"
+			],
+			[
+				"Http",
+				"Http404"
+			],
+			[
+				"pre",
+				"pre_save_post_receiver"
+			],
+			[
+				"page",
+				"page_request_var"
+			],
+			[
+				"queryse",
+				"queryset_list"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Post",
+				"PostModelAdmin"
+			],
+			[
+				"btn-grou",
+				"btn-group-lg"
+			],
+			[
+				"html",
+				"html_view"
+			],
+			[
+				"user",
+				"user_nombre"
+			],
+			[
+				"News",
+				"NewsSignUp"
+			],
+			[
+				"New",
+				"NewsSignUp"
+			],
+			[
+				"form",
+				"form_email"
+			],
+			[
+				"Libro",
+				"LibroModelAdmin"
+			],
+			[
+				"no",
+				"no_superventas"
+			],
+			[
+				"autor",
+				"autor__icontains"
+			],
+			[
+				"Libr",
+				"LibroQuerySet"
+			],
+			[
+				"Lib",
+				"LibroManager"
+			],
+			[
+				"libro",
+				"libro_post_save_receptor"
+			],
+			[
+				"slug",
+				"slugify"
+			],
+			[
+				"Com",
+				"ComprarArticulo"
+			],
+			[
+				"Compra",
+				"CompraModelForm"
+			],
+			[
+				"Comprar",
+				"ComprarArticulo"
+			],
+			[
+				"My",
+				"MyAppDelete"
+			],
+			[
+				"Model",
+				"ModelListView"
+			],
+			[
+				"Thumbn",
+				"ThumbnailInline"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"File",
+				"FileSystemStorage"
+			],
+			[
+				"Produ",
+				"ProductoCreateView"
+			],
+			[
+				"Produc",
+				"ProductoUpdateView"
+			],
+			[
+				"V",
+				"ValidationError"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"Prod",
+				"ProductoUpdateView"
+			],
+			[
+				"Mul",
+				"MultiSlugMixin"
+			],
+			[
+				"Producto",
+				"ProductoListView"
+			],
+			[
+				"get_",
+				"get_queryset"
+			],
+			[
+				"p",
+				"producto_post_save_receptor"
+			],
+			[
+				"pro",
+				"producto_pre_save_receptor"
+			],
+			[
+				"a",
+				"AdminRegistrado"
+			],
+			[
+				"Regi",
+				"Registrado"
+			],
+			[
+				"contacto",
+				"contacto_mensaje"
+			],
+			[
+				"nombre",
+				"nombre_signup"
+			],
+			[
+				"Reg",
+				"RegistrarForm"
+			],
+			[
+				"targe",
+				"target_object_id"
+			],
+			[
+				"ac",
+				"action_object_id"
+			],
+			[
+				"action",
+				"action_content_type"
+			],
+			[
+				"sender",
+				"sender_object_id"
+			],
+			[
+				"sender_",
+				"sender_content_type"
+			],
+			[
+				"Tagged",
+				"TaggedItemInline"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"parent_",
+				"parent_comment"
+			],
+			[
+				"parent",
+				"parent_comment"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"auto",
+				"auto_now"
+			],
+			[
+				"log",
+				"login_required"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"title",
+				"title_align_center"
+			],
+			[
+				"Spe",
+				"SpecialDietAdmin"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"tit",
+				"title_align_center"
+			],
+			[
+				"contac",
+				"contact_message"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"Sign",
+				"SignUpAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/pd110/settings.py",
+			"settings":
+			{
+				"buffer_size": 3103,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/karli/Desktop/pd110/src/pd110/settings.py",
+		"/C/Users/karli/Desktop/pd110/src/db.sqlite3",
+		"/C/Users/Karlita/Desktop/django projects/miblog/miblog2.sublime-workspace",
+		"/C/Users/Karlita/Desktop/django projects/miblog/mi_blog.sublime-workspace",
+		"/C/Users/Karlita/Desktop/django projects/miblog/src/miblog/urls.py",
+		"/C/Users/Karlita/Desktop/django projects/miblog/src/miblog/settings.py",
+		"/C/Users/Karlita/Desktop/django projects/miblog/src/posts/urls.py",
+		"/C/Users/Karlita/Desktop/django projects/miblog/src/miblog/settings.pyc",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/views.py",
+		"/C/Users/Karlita/Desktop/miblog/.gitignore",
+		"/C/Users/Karlita/Desktop/compartir_redes_sociales.md",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/urls.py",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/models.py",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/templatetags/urlify.py",
+		"/C/Users/Karlita/Desktop/miblog/src/templates/post_form.html",
+		"/C/Users/Karlita/Desktop/miblog/src/templates/post_detail.html",
+		"/C/Users/Karlita/Desktop/miblog/src/templates/post_list.html",
+		"/C/Users/Karlita/Desktop/miblog/src/templates/base.html",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/forms.py",
+		"/C/Users/Karlita/Desktop/miblog/src/db.sqlite3",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/templatetags/__init__.py",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/templatetags/_init_.py",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/template_tags/urlify.py",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/template_tags/_init_.py",
+		"/C/Users/Karlita/Desktop/miblog/src/miblog/urls.py",
+		"/C/Users/Karlita/Desktop/miblog/src/miblog/settings.py",
+		"/C/Users/Karlita/Desktop/miblog/src/static/css/base.css",
+		"/C/Users/Karlita/Desktop/miblog/src/templates/messages_display.html",
+		"/C/Users/Karlita/Desktop/miblog/src/templates/index.html",
+		"/C/Users/Karlita/Desktop/miblog/src/posts/admin.py",
+		"/C/Users/Karlita/Desktop/django projects/modelos/CRUD.txt",
+		"/C/Users/Karlita/Desktop/miblog/Scripts/django-admin.py",
+		"/C/Users/Karlita/Desktop/pytest/src/templates/bootstrap_buttons.html",
+		"/C/Users/Karlita/Desktop/pytest/pytest.sublime-workspace",
+		"/C/Users/Karlita/Desktop/pytest/src/pytest/settings.py",
+		"/C/Users/Karlita/Desktop/pytest/src/bootstrap/views.py",
+		"/C/Users/Karlita/Desktop/pytest/src/pytest/urls.py",
+		"/C/Users/Karlita/Desktop/Python setup for windows.txt",
+		"/C/Users/Karlita/Desktop/django projects/forms/src/forms/settings.py",
+		"/C/Users/Karlita/Desktop/django projects/forms/src/myapp/models.py",
+		"/C/Users/Karlita/Desktop/django projects/forms/src/forms/urls.py",
+		"/C/Users/Karlita/Desktop/django projects/forms/src/templates/form.html",
+		"/C/Users/Karlita/Desktop/django projects/forms/src/myapp/admin.py",
+		"/C/Users/Karlita/Desktop/django projects/cbvs/Codigo Final/src/myapp/models.py",
+		"/C/Users/Karlita/Desktop/django projects/forms/src/myapp/forms.py",
+		"/C/Users/Karlita/Desktop/django projects/forms/src/myapp/views.py",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/Codigo Final/src/myapp/forms.py",
+		"/C/Users/Karlita/Desktop/django projects/probardjango/src/templates/inicio.html",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/Codigo Final/src/plantillas/form.html",
+		"/C/Users/Karlita/Desktop/django projects/DEPLOY w HEROKU/djtest/src/Procfile",
+		"/C/Users/Karlita/Desktop/django projects/DEPLOY w HEROKU/djtest/src/djtest/settings/production.py",
+		"/C/Users/Karlita/Desktop/deployme/src/deployme/settings/local.py",
+		"/C/Users/Karlita/Desktop/django projects/DEPLOY w HEROKU/djtest/src/djtest/settings/__init__.py",
+		"/C/Users/Karlita/Desktop/deploy/src/deploy/old_settings.py",
+		"/C/Users/Karlita/Desktop/djtest/src/requirements.txt",
+		"/C/Python27/Lib/site-packages/django/bin/django-admin.py",
+		"/C/Users/Karlita/Desktop/django projects/modelos/src/myapp/forms.py",
+		"/C/Users/Karlita/Desktop/django projects/modelos/src/myapp/admin.py",
+		"/C/Users/Karlita/Desktop/django projects/modelos/src/modelos/settings.py",
+		"/C/Users/Karlita/Desktop/django projects/modelos/src/myapp/views.py",
+		"/C/Users/Karlita/Desktop/django projects/modelos/src/modelos/urls.py",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/Codigo Final/src/myapp/models.py",
+		"/C/Users/Karlita/Desktop/django projects/comerciodigital/src/comerciodigital/settings.py",
+		"/C/Users/Karlita/Desktop/django projects/probardjango/src/probardjango/settings.py",
+		"/C/Users/Karlita/Desktop/django projects/modelos/src/myapp/migrations/0001_initial.py",
+		"/C/Users/Karlita/Desktop/django projects/probardjango/src/boletin/admin.py",
+		"/C/Users/Karlita/Desktop/django projects/modelos/src/myapp/models.py",
+		"/C/Users/Karlita/Desktop/django projects/modelos/src/modelos/__init__.py",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/fbvs/settings.py",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/plantillas/form.html",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/plantillas/detail.html",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/plantillas/lista.html",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/plantillas/update.html",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/plantillas/delete.html",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/fbvs/urls.py",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/myapp/views.py",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/plantillas/base.html",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/plantillas/home.html",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/myapp/models.py",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/CRUD.txt",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/fbvs/wsgi.py",
+		"/C/Users/Karlita/Desktop/django projects/fbvs/src/manage.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/myapp/comprararticulo_form.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/myapp/comprararticulo_update.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/form.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/cbvs/urls.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/myapp/models.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/home.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/myapp/comprararticulo_detail.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/myapp/comprararticulo_list.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/myapp/comprararticulo_confirm_delete.html",
+		"/C/Users/Karlita/Desktop/django projects/testcbv/src/plantillas/myapp/listacompra_confirm_delete.html",
+		"/C/Users/Karlita/Desktop/django projects/testcbv/src/plantillas/myapp/listacompra_list.html",
+		"/C/Users/Karlita/Desktop/django projects/testcbv/src/testcbv/urls.py",
+		"/C/Users/Karlita/Desktop/django projects/testcbv/src/myapp/models.py",
+		"/C/Users/Karlita/Desktop/django projects/testcbv/src/plantillas/myapp/listacompra_detail.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/myapp/views.py",
+		"/C/Users/Karlita/Desktop/cbvs/.gitignore",
+		"/C/Users/Karlita/Desktop/get-pip.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/lista.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/detail.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/myapp/forms.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/base.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/cbvs/settings.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/myapp/admin.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/db.sqlite3",
+		"/C/Users/Karlita/Desktop/cbvs/src/myapp/migrations/0003_auto_20160516_1548.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/myapp/apps.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/myapp/tests.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/delete.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/update.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/list.html",
+		"/C/Users/Karlita/Desktop/cbvs/src/myapp/__init__.py",
+		"/C/Users/Karlita/Desktop/cbvs/src/cbvs/__init__.py",
+		"/C/Users/Karlita/Desktop/cbvs/Scripts/django-admin.py",
+		"/C/Users/Karlita/Desktop/cbvs.py",
+		"/C/Users/Karlita/Desktop/testcbv/src/testcbv/urls.py",
+		"/C/Users/Karlita/Desktop/detail_view_master.py",
+		"/C/Users/Karlita/Desktop/formhtml.py",
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/form_delete.html",
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/form_delete.html",
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/base.html",
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/detail.html",
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/listacompra_list.html",
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/listacompra_confirm_delete.html",
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/listacompra_detail.html",
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/listacompra_form.html",
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/form.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Karlita\\Desktop\\django projects\\fbvs\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"entre",
+			"justin",
+			"n",
+			"codi",
+			"	# if request.method == \"POST\":\n	# 	print request.POST.get(\"titulo\")\n	# 	print request.POST.get(\"contenido\")",
+			"cbvs",
+			"[\"",
+			"=''",
+			"value",
+			"/>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fbvs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/pd110/settings.py",
+					"settings":
+					{
+						"buffer_size": 3103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								879,
+								879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Karlita/Documents/dm/dm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true
+}
