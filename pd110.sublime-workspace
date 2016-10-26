@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"list",
+				"list_display"
+			],
+			[
 				"queryset",
 				"queryset_list"
 			],
@@ -279,7 +283,7 @@
 			"file": "src/pd110/settings.py",
 			"settings":
 			{
-				"buffer_size": 3103,
+				"buffer_size": 3138,
 				"line_ending": "Unix"
 			}
 		}
@@ -308,7 +312,15 @@
 	},
 	"file_history":
 	[
+		"/C/Users/karli/Desktop/pd110/src/boletin/views.py",
+		"/C/Users/karli/Desktop/pd110/src/templates/inicio.html",
+		"/C/Users/karli/Desktop/pd110/src/boletin/forms.py",
+		"/C/Users/karli/Desktop/pd110/src/boletin/admin.py",
+		"/C/Users/karli/Desktop/pd110/src/boletin/models.py",
+		"/C/Users/karli/Desktop/pd110/src/pd110/urls.py",
 		"/C/Users/karli/Desktop/pd110/src/pd110/settings.py",
+		"/C/Users/karli/Desktop/pd110/CRUD.md",
+		"/C/Users/karli/Desktop/pd110/.gitignore",
 		"/C/Users/karli/Desktop/pd110/src/db.sqlite3",
 		"/C/Users/Karlita/Desktop/django projects/miblog/miblog2.sublime-workspace",
 		"/C/Users/Karlita/Desktop/django projects/miblog/mi_blog.sublime-workspace",
@@ -427,15 +439,7 @@
 		"/C/Users/Karlita/Desktop/testcbv/src/testcbv/urls.py",
 		"/C/Users/Karlita/Desktop/detail_view_master.py",
 		"/C/Users/Karlita/Desktop/formhtml.py",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/form_delete.html",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/form_delete.html",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/base.html",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/detail.html",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/listacompra_list.html",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/listacompra_confirm_delete.html",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/listacompra_detail.html",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/listacompra_form.html",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/form.html"
+		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/form_delete.html"
 	],
 	"find":
 	{
@@ -490,15 +494,15 @@
 					"file": "src/pd110/settings.py",
 					"settings":
 					{
-						"buffer_size": 3103,
+						"buffer_size": 3138,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								879,
-								879
+								1870,
+								1870
 							]
 						],
 						"settings":
@@ -508,7 +512,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 462.0,
+						"translation.y": 1104.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -580,6 +584,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 152.0,
+	"side_bar_width": 187.0,
 	"status_bar_visible": true
 }
