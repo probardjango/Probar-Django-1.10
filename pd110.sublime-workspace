@@ -280,11 +280,35 @@
 	"buffers":
 	[
 		{
-			"file": "src/pd110/settings.py",
+			"file": "src/boletin/views.py",
 			"settings":
 			{
-				"buffer_size": 3138,
+				"buffer_size": 1851,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 959,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 1895,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/inicio.html",
+			"settings":
+			{
+				"buffer_size": 809,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -312,13 +336,16 @@
 	},
 	"file_history":
 	[
-		"/C/Users/karli/Desktop/pd110/src/boletin/views.py",
+		"/C/Users/karli/Desktop/pd110/src/templates/head_css.html",
+		"/C/Users/karli/Desktop/pd110/src/templates/javascript.html",
 		"/C/Users/karli/Desktop/pd110/src/templates/inicio.html",
-		"/C/Users/karli/Desktop/pd110/src/boletin/forms.py",
-		"/C/Users/karli/Desktop/pd110/src/boletin/admin.py",
-		"/C/Users/karli/Desktop/pd110/src/boletin/models.py",
 		"/C/Users/karli/Desktop/pd110/src/pd110/urls.py",
 		"/C/Users/karli/Desktop/pd110/src/pd110/settings.py",
+		"/C/Users/karli/Desktop/pd110/src/templates/forms.html",
+		"/C/Users/karli/Desktop/pd110/src/boletin/forms.py",
+		"/C/Users/karli/Desktop/pd110/src/boletin/views.py",
+		"/C/Users/karli/Desktop/pd110/src/boletin/admin.py",
+		"/C/Users/karli/Desktop/pd110/src/boletin/models.py",
 		"/C/Users/karli/Desktop/pd110/CRUD.md",
 		"/C/Users/karli/Desktop/pd110/.gitignore",
 		"/C/Users/karli/Desktop/pd110/src/db.sqlite3",
@@ -436,10 +463,7 @@
 		"/C/Users/Karlita/Desktop/cbvs/src/cbvs/__init__.py",
 		"/C/Users/Karlita/Desktop/cbvs/Scripts/django-admin.py",
 		"/C/Users/Karlita/Desktop/cbvs.py",
-		"/C/Users/Karlita/Desktop/testcbv/src/testcbv/urls.py",
-		"/C/Users/Karlita/Desktop/detail_view_master.py",
-		"/C/Users/Karlita/Desktop/formhtml.py",
-		"/C/Users/Karlita/Desktop/testcbv/src/plantillas/myapp/form_delete.html"
+		"/C/Users/Karlita/Desktop/testcbv/src/testcbv/urls.py"
 	],
 	"find":
 	{
@@ -486,33 +510,114 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/pd110/settings.py",
+					"file": "src/boletin/views.py",
 					"settings":
 					{
-						"buffer_size": 3138,
+						"buffer_size": 1851,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1870,
-								1870
+								1031,
+								1018
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1104.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/navbar.html",
+					"settings":
+					{
+						"buffer_size": 1895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								566,
+								566
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/inicio.html",
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								603
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
