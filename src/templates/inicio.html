@@ -20,10 +20,16 @@
 <br/>
 
 {% block content %}
-<form method="POST" action="">{% csrf_token %}
-{{ el_form|crispy }}
-<input type='submit' value='Registrame' />
-</form>
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+		<form method="POST" action="">{% csrf_token %}
+		{{ el_form|crispy }}
+		<input class='btn btn-primary' type='submit' value='Inscribirse' />
+		</form>
+  </div>
+</div>
+
+
 <hr/>
 {% endblock %}
 
