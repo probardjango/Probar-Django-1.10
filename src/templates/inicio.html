@@ -3,16 +3,19 @@
 
 {% block head_title %}Bienvenidos | {{ block.super }}{% endblock %}
 
+
 {% block jumbotron_content %}
-        <h1>INICIO!!</h1>
-        <p>This example is a quick exercise to illustrate how the default, static and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
-        <p>To see the difference between static and fixed top navbars, just scroll.</p>
+<div class='row'>
+  <div class='col-sm-6'>
+        <h1>Probar Django 1.10</h1>
+        <p>Un proyecto para principiantes. El objetivo es construir una página web simple a la par que elegante en muy poco tiempo</p>
         <p>
-          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">Únete &raquo;</a>
         </p>
+</div>
+<div class='col-sm-6' style='background-color:black;height:300px;'></div>
+</div>
 {% endblock %}
-
-
 
 {{ titulo }}<br/>
 {{ request.user }}
@@ -21,12 +24,22 @@
 
 {% block content %}
 <div class="row">
-  <div class="col-sm-6 col-md-4">
+  <div class="col-sm-3 col-xs-12 pull-right">
+    <p class='lead text-align-center'>{{ titulo }}</p>
 		<form method="POST" action="">{% csrf_token %}
 		{{ el_form|crispy }}
 		<input class='btn btn-primary' type='submit' value='Inscribirse' />
 		</form>
   </div>
+<div class='col-sm-3'>
+  <p class='lead text-align-center'>Creado con Django &amp; Bootstrap.</p>
+</div>
+<div class='col-sm-3'>
+  <p class='lead text-align-center'>Y con mucho amor, claro.</p>
+</div>
+<div class='col-sm-3'>
+  <p class='lead text-align-center'>Código abierto, siempre.</p>
+</div>
 </div>
 
 

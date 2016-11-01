@@ -279,38 +279,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/templates/inicio.html",
-			"settings":
-			{
-				"buffer_size": 846,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/templates/base.html",
-			"settings":
-			{
-				"buffer_size": 981,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/templates/head_css.html",
-			"settings":
-			{
-				"buffer_size": 958,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/static_pro/static/css/base.css",
-			"settings":
-			{
-				"buffer_size": 31,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -336,17 +304,18 @@
 	},
 	"file_history":
 	[
-		"/C/Users/karli/Desktop/pd110/src/static_pro/static/css/base.css",
 		"/C/Users/karli/Desktop/pd110/src/templates/inicio.html",
+		"/C/Users/karli/Desktop/pd110/src/templates/base.html",
+		"/C/Users/karli/Desktop/pd110/src/pd110/urls.py",
+		"/C/Users/karli/Desktop/pd110/src/templates/navbar.html",
+		"/C/Users/karli/Desktop/pd110/src/static_pro/static/css/navbar-static-top.css",
+		"/C/Users/karli/Desktop/pd110/src/boletin/forms.py",
+		"/C/Users/karli/Desktop/pd110/src/templates/head_css.html",
+		"/C/Users/karli/Desktop/pd110/src/static_pro/static/css/base.css",
 		"/C/Users/karli/Desktop/pd110/src/pd110/settings.py",
 		"/C/Users/karli/Desktop/pd110/src/boletin/views.py",
-		"/C/Users/karli/Desktop/pd110/src/templates/base.html",
-		"/C/Users/karli/Desktop/pd110/src/templates/navbar.html",
 		"/C/Users/karli/Desktop/pd110/src/templates/javascript.html",
-		"/C/Users/karli/Desktop/pd110/src/templates/head_css.html",
-		"/C/Users/karli/Desktop/pd110/src/pd110/urls.py",
 		"/C/Users/karli/Desktop/pd110/src/templates/forms.html",
-		"/C/Users/karli/Desktop/pd110/src/boletin/forms.py",
 		"/C/Users/karli/Desktop/pd110/src/boletin/admin.py",
 		"/C/Users/karli/Desktop/pd110/src/boletin/models.py",
 		"/C/Users/karli/Desktop/pd110/CRUD.md",
@@ -462,8 +431,7 @@
 		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/delete.html",
 		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/update.html",
 		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/list.html",
-		"/C/Users/Karlita/Desktop/cbvs/src/myapp/__init__.py",
-		"/C/Users/Karlita/Desktop/cbvs/src/cbvs/__init__.py"
+		"/C/Users/Karlita/Desktop/cbvs/src/myapp/__init__.py"
 	],
 	"find":
 	{
@@ -510,117 +478,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/templates/inicio.html",
-					"settings":
-					{
-						"buffer_size": 846,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								779,
-								779
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/templates/base.html",
-					"settings":
-					{
-						"buffer_size": 981,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								609,
-								609
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/templates/head_css.html",
-					"settings":
-					{
-						"buffer_size": 958,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								395,
-								395
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/static_pro/static/css/base.css",
-					"settings":
-					{
-						"buffer_size": 31,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								28,
-								28
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
