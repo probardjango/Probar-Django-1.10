@@ -23,10 +23,11 @@ from .views import about
 # from boletin.views import inicio
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
-    url(r'^contact/$', views.contact, name='contact'),
     url(r'^$', views.inicio, name='inicio'),
+    url(r'^contact/$', views.contact, name='contact'),
     url(r'^about/$', about, name='about'),
+    url(r'^admin/', admin.site.urls),
+
 ]
 
 if settings.DEBUG:
