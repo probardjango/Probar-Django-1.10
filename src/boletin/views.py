@@ -34,13 +34,6 @@ def inicio(request):
 				"titulo": "Gracias %s!" %(email)
 			}
 
-		print instance
-		print instance.timestamp
-		# form_data = form.cleaned_data
-		# abc = form_data.get("email")
-		# abc2 = form_data.get("nombre")
-		# obj = Registrado.objects.create(email=abc, nombre=abc2)
-
 	
 	return render(request, "inicio.html", context)
 

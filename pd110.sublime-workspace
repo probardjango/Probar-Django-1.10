@@ -279,6 +279,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 767,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/inicio.html",
+			"settings":
+			{
+				"buffer_size": 1273,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -304,6 +320,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/karli/Desktop/pd110/src/templates/head_css.html",
+		"/C/Users/karli/Desktop/pd110/src/templates/inicio.html",
+		"/C/Users/karli/Desktop/pd110/src/templates/base.html",
+		"/C/Users/karli/Desktop/pd110/src/templates/navbar.html",
 		"/C/Users/karli/Desktop/pd110/src/pd110/urls.py",
 		"/C/Users/karli/Desktop/pd110/src/pd110/settings.py",
 		"/C/Users/karli/Desktop/pd110/src/templates/registration/registration_form.html",
@@ -324,14 +344,10 @@
 		"/C/Users/karli/Desktop/pd110/src/templates/registration/password_reset_email.html",
 		"/C/Users/karli/Desktop/pd110/src/templates/registration/password_reset_complete.html",
 		"/C/Users/karli/Desktop/pd110/Scripts/activate_this.py",
-		"/C/Users/karli/Desktop/pd110/src/templates/inicio.html",
 		"/C/Users/karli/Desktop/pd110/src/boletin/views.py",
-		"/C/Users/karli/Desktop/pd110/src/templates/base.html",
-		"/C/Users/karli/Desktop/pd110/src/templates/navbar.html",
 		"/C/Users/karli/Desktop/pd110/src/pd110/views.py",
 		"/C/Users/karli/Desktop/pd110/src/static_pro/static/css/navbar-static-top.css",
 		"/C/Users/karli/Desktop/pd110/src/static_pro/static/css/custom.css",
-		"/C/Users/karli/Desktop/pd110/src/templates/head_css.html",
 		"/C/Users/karli/Desktop/pd110/src/boletin/forms.py",
 		"/C/Users/karli/Desktop/pd110/src/static_pro/static/css/base.css",
 		"/C/Users/karli/Desktop/pd110/src/templates/javascript.html",
@@ -478,8 +494,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/inicio.html",
+					"settings":
+					{
+						"buffer_size": 1273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								923,
+								923
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
