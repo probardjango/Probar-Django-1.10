@@ -11,15 +11,19 @@
   color: #FFF !important;
 }
 
-.fa-5x {
+/*.fa-5x {
   font-size: 6em !important;
-}
+}*/
 {% endblock %}
 </style>
 
 
 
 {% block jumbotron %}
+
+{% if request.user.is_staff %}
+{{ queryset }}
+{% else %}
 
 <div class="jumbotron">
 <div class="container">
@@ -35,37 +39,46 @@
 </div>
 </div>
 </div>
+{% endif %}
 {% endblock %}
 
 
 {% block content %}
+{% if not request.user.is_staff %}
 <div class="row">
   <div class="col-sm-3 col-xs-12 pull-right">
-    <p class='lead text-align-center'>{{ titulo }}</p>
+    {% if not user.is_authenticated %}
+    <p class='lead text-align-center'>Subscribirte</p>
 		<form method="POST" action="">{% csrf_token %}
 		{{ el_form|crispy }}
-		<input class='btn btn-primary' type='submit' value='Recibir' />
+		<input class='btn btn-primary' type='submit' value='Confirmar' />
 		</form>
+    {% else %}
+    <p class='lead text-align-center'>{{ titulo }}<br/><br/><span class="fa-stack fa-4x">
+  <i class="fa fa-circle-thin fa-stack-2x"  style="color:#47b78c;"></i>
+  <i class="fa fa-hand-peace-o fa-stack-1x"></i>
+</span></p>
+    {% endif %}
   </div>
 <div class='col-sm-3'>
-  <p class='lead text-align-center'>Creado con Django &amp; Bootstrap.<br/><br/><span class="fa-stack fa-5x">
+  <p class='lead text-align-center'>Django &amp; Bootstrap.<br/><br/><span class="fa-stack fa-4x">
   <i class="fa fa-circle-o-notch fa-stack-2x"></i>
-  <i class="fa fa-bullhorn fa-stack-1x"></i></i></p>
+  <i class="fa fa-bullhorn fa-stack-1x" style="color:#47b78c;"></i></p>
 </div>
 <div class='col-sm-3'>
-  <p class='lead text-align-center'>Y con mucho amor, claro.</p><img src='{% static "img/obama_tacos.jpg" %}'/>
+  <p class='lead text-align-center'>Creado con mucho amor.</p><img src='{% static "img/obama_tacos.jpg" %}'/>
 </div>
 <div class='col-sm-3'>
-  <p class='lead text-align-center'>Código abierto, siempre.<br/><br/><span class="fa-stack fa-5x">
-  <i class="fa fa-spinner fa-spin fa-stack-2x"></i>
-  <i class="fa fa-font-awesome fa-stack-1x"></i>
-</span></i></p>
+  <p class='lead text-align-center'>Código abierto, siempre.<br/><br/><span class="fa-stack fa-4x">
+  <i class="fa fa-circle-o-notch fa-spin fa-stack-2x"></i>
+  <i class="fa fa-font-awesome fa-stack-1x" style="color:#47b78c;"></i>
+</span></p>
 </div>
 </div>
 
 
 
 <hr/>
-
+{% endif %}
 {% endblock %}
 

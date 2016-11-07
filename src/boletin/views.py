@@ -8,7 +8,7 @@ from .forms import RegModelForm, ContactForm
 def inicio(request):
 	titulo = "Bienvenidos."
 	if request.user.is_authenticated():
-		titulo = "Bienvenido %s" %(request.user)
+		titulo = "Bienvenid@ %s" %(request.user)
 	form = RegModelForm(request.POST or None)
 
 	context = {
@@ -33,7 +33,10 @@ def inicio(request):
 				"titulo": "Gracias %s!" %(email)
 			}
 
-	
+	if request.user.is_authenticated() and request.user.is_staff:
+		context = {
+			"queryset": ['abc', '123'],
+		}
 	return render(request, "inicio.html", context)
 
 def contact(request):
