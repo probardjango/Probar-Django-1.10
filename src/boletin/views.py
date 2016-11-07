@@ -3,7 +3,6 @@ from django.core.mail import send_mail
 from django.shortcuts import render
 
 from .forms import RegModelForm, ContactForm
-from .models import Registrado
 
 # Create your views here.
 def inicio(request):
