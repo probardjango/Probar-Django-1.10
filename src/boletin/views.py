@@ -3,6 +3,7 @@ from django.core.mail import send_mail
 from django.shortcuts import render
 
 from .forms import RegModelForm, ContactForm
+from .models import Registrado
 
 # Create your views here.
 def inicio(request):
@@ -34,8 +35,9 @@ def inicio(request):
 			}
 
 	if request.user.is_authenticated() and request.user.is_staff:
+		queryset = Registrado.objects.all().order_by("-timestamp") #.filter(nombre__iexact="karlita")
 		context = {
-			"queryset": ['abc', '123'],
+			"queryset": queryset,
 		}
 	return render(request, "inicio.html", context)
 
