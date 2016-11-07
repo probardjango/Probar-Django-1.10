@@ -26,3 +26,7 @@ body {
 .navbar-default .navbar-nav>li>a:hover {
 	color: #faffbd;
 }
+
+.navbar-default .navbar-toggle:hover {
+	background-color: white;
+}
