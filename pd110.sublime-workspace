@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
 				"is_",
 				"is_authenticated"
 			],
@@ -283,6 +287,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/templates/inicio.html",
+			"settings":
+			{
+				"buffer_size": 2573,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/boletin/views.py",
+			"settings":
+			{
+				"buffer_size": 1893,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -309,13 +329,16 @@
 	"file_history":
 	[
 		"/C/Users/karli/Desktop/pd110/src/boletin/views.py",
-		"/C/Users/karli/Desktop/pd110/src/templates/inicio.html",
+		"/C/Users/karli/Desktop/pd110/src/boletin/models.py",
 		"/C/Users/karli/Desktop/pd110/src/templates/base.html",
-		"/C/Users/karli/Desktop/pd110/src/static_pro/static/css/navbar-static-top.css",
+		"/C/Users/karli/Desktop/pd110/texto.txt",
+		"/C/Users/karli/Desktop/pd110/src/templates/about.html",
 		"/C/Users/karli/Desktop/pd110/src/templates/navbar.html",
-		"/C/Users/karli/Desktop/pd110/src/templates/head_css.html",
-		"/C/Users/karli/Desktop/pd110/src/pd110/settings.py",
 		"/C/Users/karli/Desktop/pd110/src/templates/forms.html",
+		"/C/Users/karli/Desktop/pd110/src/static_pro/static/css/navbar-static-top.css",
+		"/C/Users/karli/Desktop/pd110/src/templates/head_css.html",
+		"/C/Users/karli/Desktop/pd110/src/templates/inicio.html",
+		"/C/Users/karli/Desktop/pd110/src/pd110/settings.py",
 		"/C/Users/karli/Desktop/pd110/src/pd110/urls.py",
 		"/C/Users/karli/Desktop/pd110/src/templates/registration/registration_form.html",
 		"/C/Users/karli/Desktop/pd110/src/templates/registration/password_reset_form.html",
@@ -340,7 +363,6 @@
 		"/C/Users/karli/Desktop/pd110/src/static_pro/static/css/base.css",
 		"/C/Users/karli/Desktop/pd110/src/templates/javascript.html",
 		"/C/Users/karli/Desktop/pd110/src/boletin/admin.py",
-		"/C/Users/karli/Desktop/pd110/src/boletin/models.py",
 		"/C/Users/karli/Desktop/pd110/CRUD.md",
 		"/C/Users/karli/Desktop/pd110/.gitignore",
 		"/C/Users/karli/Desktop/pd110/src/db.sqlite3",
@@ -433,9 +455,7 @@
 		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/myapp/comprararticulo_detail.html",
 		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/myapp/comprararticulo_list.html",
 		"/C/Users/Karlita/Desktop/cbvs/src/plantillas/myapp/comprararticulo_confirm_delete.html",
-		"/C/Users/Karlita/Desktop/django projects/testcbv/src/plantillas/myapp/listacompra_confirm_delete.html",
-		"/C/Users/Karlita/Desktop/django projects/testcbv/src/plantillas/myapp/listacompra_list.html",
-		"/C/Users/Karlita/Desktop/django projects/testcbv/src/testcbv/urls.py"
+		"/C/Users/Karlita/Desktop/django projects/testcbv/src/plantillas/myapp/listacompra_confirm_delete.html"
 	],
 	"find":
 	{
@@ -483,8 +503,64 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/templates/inicio.html",
+					"settings":
+					{
+						"buffer_size": 2573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/boletin/views.py",
+					"settings":
+					{
+						"buffer_size": 1893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -552,6 +628,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 271.0,
+	"side_bar_width": 237.0,
 	"status_bar_visible": true
 }
